@@ -1,6 +1,12 @@
 # CMake 简单使用
 ## 目录结构
 
+```
+01cmk_basic_use/
+├── CMakeLists.txt
+├── main.cpp
+├── README.md
+```
 
 ## 内置函数
 
